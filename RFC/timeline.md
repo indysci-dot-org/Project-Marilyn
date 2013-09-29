@@ -1,12 +1,12 @@
 Project Marilyn Timeline
 ========================
 
-January
--------
+January 2014
+------------
 * Crowdfunding launch (January 7th)
 
-February
---------
+February 2014
+-------------
 February 7th: crowdfunding ends, unless extended up to two weeks depending on stretch goal status
 
 * Negotiate space requirements.
