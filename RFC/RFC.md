@@ -50,7 +50,7 @@ biology techniques. A full CV is available [here](http://indysci.org/board/CV.pd
 
 Full Scientific Description
 ---------------------------
-A full scientific description is available for examination [here](http://indysci.org/ProjectMarilyn/description.html).
+A full scientific description is available for examination [here](http://indysci.org/projectmarilyn/description.html).
 
 Fundraising
 -----------
