@@ -1,4 +1,4 @@
 Project-Marilyn
 ===============
 
-Prospectus for Project Marilyn
+Project Marilyn files
