@@ -32,7 +32,7 @@ more potent against cancer cell lines in vitro.
 Dr. Gerratana departed from her position as an academic research lead, and once again research on the 
 sibiromycin family was abandoned. Project Marilyn picks up where this research left off, taking advantage of 
 the expiration of the patentability of 9DS with the intent of producing more analogs and releasing these, 
-too, to the public domain. An open-access version of the publication reporting 9DS is available.
+too, to the public domain. An open-access version of the publication reporting 9DS [is available](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376188/).
 
 What remains to be done is to bring 9DS through further preclinical trials, this includes animal studies 
 such as a pharmacokinetics study and a xenograft study to measure efficacy against select cancer lines and 
@@ -46,11 +46,11 @@ Isaac Yonemoto earned his PhD in chemistry from The Scripps Research Institute, 
 dynamics. Subsequently, he performed postdoctoral research under the supervision of Barbara Gerratana, gaining 
 firsthand experience in the production, analytical verification, and handling of sibiromycin and analogs. After 
 this, he performed postdoctoral research at the J. Craig Venter Institute, gaining experience in synthetic 
-biology techniques. A full CV is available here.
+biology techniques. A full CV is available [here](http://indysci.org/board/CV.pdf).
 
 Full Scientific Description
 ---------------------------
-A full scientific description is available for examination here.
+A full scientific description is available for examination [here](http://indysci.org/ProjectMarilyn/description.html).
 
 Fundraising
 -----------
@@ -89,11 +89,11 @@ or scientists with clinical research experience in the field of oncology.
 
 Timeline
 --------
-Detailed PM timeline is available as a separate document here.
+Detailed PM timeline is available as a separate document in this repo (timeline.md).
 
 Budget
 ------
-Detailed PM budgets are available as a separate document here
+Detailed PM budgets are available as separate documents in this repo (csv files).
 
 Summary: Budgets for 750,000 USD, 1,250,000 USD, and 1,750,000 USD are presented. Note that higher fundraising 
 will result in increased budgetary margins. Also note that the 1,750,000 USD stretch goals involves 
